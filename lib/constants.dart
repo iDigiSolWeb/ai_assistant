@@ -1,0 +1,2 @@
+///TODO PROVIDE YOUR OWN CHATGPT API KEY - OPENAI.COM
+const String chatgptAPiKEy = '';
