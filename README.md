@@ -1,16 +1,5 @@
 # ai_assistant
 
-A new Flutter project.
+Ai Assitant that uses chat gpt and dall-e for content creation. This app also makes use of text to speech and speech to text as well as the animate_do package.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please note : You will have to generate your own api key. The cost integrating with openai's api is quite expensive.
